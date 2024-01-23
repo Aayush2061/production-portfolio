@@ -1,0 +1,17 @@
+{
+  "name": "mern-portfolio",
+  "version": "1.0.0",
+  "description": "portfolio ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aayush Bhandari",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "elasticemail-webapiclient": "^2.0.14",
+    "express": "^4.18.2"
+  }
+}
